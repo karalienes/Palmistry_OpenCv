@@ -1,0 +1,1 @@
+# Palmistry_OpenCv
